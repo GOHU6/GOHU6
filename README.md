@@ -7,9 +7,7 @@
    
    **Database :** `SQL` `Oracle` `IBM i Access Client Solutions ACS`
    
-   **DevOps :** `Docker` `CI/CD (Jenkins / Maven / SonarQube)` `Version Control (Git / BitBucket)`
-   
-   **Version Control :** `Git` `GitLab` `Bitbucket`
+   **DevOps :** `Docker` `CI/CD (Jenkins / Maven / SonarQube)` `Version Control (Git / GitLab / BitBucket)`
    
    **Testing :** `JUnit` `Cypress` `Postman` 
    
