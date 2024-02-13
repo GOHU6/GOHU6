@@ -1,17 +1,17 @@
 # Hi i'm Hugo ✨
 
 ## 📦Toolbox
-   **Backend Development :** `Java` `Spring` `Microservice` `API(Rest / Soap)` `JavaScript`
+   **Backend Development :** `Java` `Spring` `Microservice` `API(Rest / Soap)` `JavaScript` `TypeScript`
    
-   **Frontend Development :** `Angular` `TypeScript` `Bootstrap` `Material-UI` `html / css`
+   **Frontend Development :** `Angular` `Bootstrap` `Material-UI` `html / css`
    
-   **Database :** `SQL` `Oracle` `IBM i Access Client Solutions ACS`
+   **Database :** `SQL` `Oracle` `Microsoft SQL Server` `IBM i Access Client Solutions ACS`
    
    **DevOps :** `Docker` `CI/CD (Jenkins / Maven / SonarQube)` `Version Control (Git / GitLab / BitBucket)`
    
    **Testing :** `JUnit` `Cypress` `Postman` 
    
-   **Others :**  `Scrum` `Confluence` `Jira`
+   **Others :**  `Scrum` `Confluence` `Jira` `Figma`
 
 ## 📫 Contact
   For a quick response, DM me on LinkedIn.
