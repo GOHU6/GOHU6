@@ -1,7 +1,7 @@
 # Hi i'm Hugo ✨
 
 ## 📦Toolbox
-   **Backend Development :** `Java` `Spring` `Microservice` `API(Rest / Soap)` `JavaScript` `TypeScript`
+   **Backend Development :** `Java` `Spring` `Microservice` `API(Rest / Soap)` `JavaScript` `TypeScript` `Node.js` 
    
    **Frontend Development :** `Angular` `Bootstrap` `Material-UI` `html / css`
    
