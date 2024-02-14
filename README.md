@@ -1,6 +1,6 @@
 # Hi there ✋
 <a href="https://app.daily.dev/hugomorin">
-  <img src="https://github.com/GOHU6/GOHU6/devcard.svg" width="400" alt="Hugo MORIN's Dev Card"/>
+  <img src="https://github.com/GOHU6/GOHU6/blob/master/devcard.svg" width="400" alt="Hugo MORIN's Dev Card"/>
 </a>
 
 ## 📦Toolbox
