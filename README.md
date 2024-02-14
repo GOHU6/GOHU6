@@ -1,4 +1,7 @@
 # Hi there ✋
+<a href="https://app.daily.dev/hugomorin">
+  <img src="https://github.com/GOHU6/GOHU6/devcard.svg" width="400" alt="Hugo MORIN's Dev Card"/>
+</a>
 
 ## 📦Toolbox
    **Backend Development :** `Java` `Spring` `Microservice` `API(Rest / Soap)` `JavaScript` `TypeScript` `Node.js` 
