@@ -12,8 +12,6 @@
    **Testing :** `JUnit` `Cypress` `Postman` 
    
    **Others :**  `Scrum` `Confluence` `Jira` `Figma`
-   
-   <a href="https://app.daily.dev/hugomorin"><img src="https://github.com/GOHU6/GOHU6/blob/main/devcard.svg" width="400" alt="Hugo MORIN's Dev Card"/></a>
   
 ## 📫 Contact
   For a quick response, DM me on LinkedIn.
